@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi, I'm Shahariar Shammu
 
-<!--
-**s-shammu/s-shammu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+🎓 I am currently studying CSE at BRAC University </br>
+🎤 Like to share my knowledge </br>
+🌐 And finally on my journey to this vast tech industry that the world has to offer.</p>
 
-Here are some ideas to get you started:
+![Profile views](https://gpvc.arturio.dev/s-shammu)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me!
+<p> My hobby is travelling, watching anime or series and video games. I want to be a full stack developer. Right now I am learning JavaScript. I love learning new skills and inspire others to do so. My OCD is my power to coding. </p>
+
+## 👨‍💻 Skills!
+
+✅ JavaScript <br>
+✅ HTML5 <br>
+✅ CSS3 / Bootstrap <br>
+✅ Git <br>
